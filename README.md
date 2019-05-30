@@ -30,3 +30,4 @@ Med izvajanjem program v mapo tempImages shrani vmesne slike template matchinga 
 
 V command line se na koncu izpišejo: FEN string, tabela pozicije in čas izvajanja programa.
 
+Aljaž Ferko 
