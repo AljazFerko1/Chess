@@ -4,11 +4,15 @@ Za izdelavo projekta sem uporabil projek:
 https://github.com/maciejczyzewski/neural-chessboard
 
 Pred uporabo projekta je potrebno:
+
 pip3 install opencv3
+
 pip3 install -r requirements.txt
+
 pip3 install python-chess
 
 Uporaba projekta:
+
 python3 matching.py 'full/match' 'path_to_file' 'w/b'
 
 Rezultati se shranjujejo v mapo tempImages.
